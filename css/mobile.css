@@ -1,6 +1,6 @@
 @media (max-width: 414px) {
     body,html{
-        width: 414px;
+        width: 100%;
         scroll-behavior: smooth;
         margin: 0px;
         padding: 0px;
@@ -10,6 +10,7 @@
     }
     #main{
         display: block;
+        width: 100%;
     }
     #nav{
         display: none;
