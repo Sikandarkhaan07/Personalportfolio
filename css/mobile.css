@@ -47,6 +47,7 @@
         padding: 10px;
     }
     .credential{
+        display: block;
         padding: 0px 35px 0px 0px;
         margin-right: 10px;
     }
