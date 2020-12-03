@@ -1,13 +1,12 @@
-@media (max-width: 500px) {
-    html {
+@media (max-width: 414px) {
+    body,html{
+        width: 414px;
         scroll-behavior: smooth;
-      }
-    body{
         margin: 0px;
         padding: 0px;
         box-sizing: border-box;
         overflow-x: hidden;
-        /* position: relative; */
+        position: relative;
     }
     #main{
         display: block;
@@ -17,7 +16,7 @@
     }
     #content{
         height: 100vh;
-        width: 100%;
+        width: 414px;
         margin: -210px 0px 0px 0px;
     }
     #content h4{
