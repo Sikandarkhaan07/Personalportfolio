@@ -60,6 +60,8 @@
         margin: 0px 25px;
         margin-bottom: 70px;
     } 
-
+    .contact-left #map{
+    width: 330px;
+}
 
   }
